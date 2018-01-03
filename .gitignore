@@ -1,0 +1,10 @@
+data/
+*.pdf
+Trials/
+modelsLatest/
+beta_simulator_mac.app/
+run4/
+*.zip
+.DS_Store
+*.ipynb
+data 2/
